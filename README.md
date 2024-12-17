@@ -20,6 +20,7 @@ In this section, users can perform ground point separation on the denoised point
 1.2.3 Plot segmentation
 
 In this section, users can divide the point cloud into smaller segments as needed. By clicking "Plot Segmentation," the parameters are set to default values, but users can adjust them according to their requirements. Press the "OK" button to initiate the segmentation process.
+
 1.3 Result Output
 
 The calculation process for the phenotypic parameters is embedded within the program. Users only need to click the corresponding parameter button to generate the results. The results are saved as an Excel file, which will be created in the same folder as the program.
